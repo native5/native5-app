@@ -4,7 +4,7 @@
     "type" : "project",
     "keywords"        : ["framework", "sample application", "native5"],
     "homepage"        : "http://www.native5.com",
-    "license" : "MIT",
+    "license" : "Apache-2.0",
     "support"        : {
             "email"   : "support@native5.com"
     },
@@ -12,5 +12,9 @@
         "native5/native5-sdk-client-php": "0.2.*",
         "native5/native5-sdk-services-php": "0.2.*",
         "native5/native5-sdk-common-php": "0.2.*"
-    }
+    },
+    "config" : {
+        "preferred-install" : "dist"
+    },
+    "minimum-stability" : "dev"
 }
