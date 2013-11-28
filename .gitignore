@@ -10,3 +10,4 @@ views/templates/compiled
 composer.lock
 public
 cache
+*local*
