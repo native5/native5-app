@@ -1,6 +1,6 @@
 # Getting started.
 See Getting started to setup your application.
-Drop in your application into your apache web folder to have your first multi-channel application on the Native5 Platform.
+Drop in or symlink your application into your webserver applications folder to have your first multi-channel application on the Native5 Platform.
 
 #Accessing the application
 Credentials for demo application : demo/demo
