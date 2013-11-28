@@ -1,0 +1,12 @@
+*.swp
+vendor/**.*
+.sass-cache/**.*
+logs/**.*
+views/templates/compiled/**.*
+vendor
+.sass-cache
+logs
+views/templates/compiled
+composer.lock
+public
+cache
