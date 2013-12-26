@@ -9,9 +9,9 @@
             "email"   : "support@native5.com"
     },
     "require": {
-        "native5/native5-sdk-client-php": "0.2.*",
-        "native5/native5-sdk-services-php": "0.2.*",
-        "native5/native5-sdk-common-php": "0.2.*"
+        "native5/native5-sdk-client-php": "0.3.*",
+        "native5/native5-sdk-services-php": "0.3.*",
+        "native5/native5-sdk-common-php": "0.3.*"
     },
     "config" : {
         "preferred-install" : "dist"
